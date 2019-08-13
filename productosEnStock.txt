@@ -1,0 +1,8 @@
+1,      Chocolate Milka, 45, 12
+2,      Caramelos MediaHora, 6, 258
+3,      Pastillas Tic-Tac, 22, 154
+4,      Chicles Topline, 33, 100
+5,      Bon o Bon, 10, 48
+6,      Papas Fritas Lays, 55, 0
+7,      Palitos Pehuamar, 49, 1
+8,     nugaton, 53, 98

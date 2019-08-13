@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var kiosco_1 = require("./kiosco");
+var miKiosco = new kiosco_1["default"]();
+console.log(miKiosco.getListadoALaVenta());
+miKiosco.comprarProducto(2, 'Caramelos Media Hora', 6, 8);
+miKiosco.venderProducto(6, 1);
+miKiosco.venderProducto(7, 1);
+miKiosco.venderProducto(8, 1);
+miKiosco.comprarProducto(7, 'Palitos Pehuamar', 49, 1);
+console.log(miKiosco.getListadoALaVenta());

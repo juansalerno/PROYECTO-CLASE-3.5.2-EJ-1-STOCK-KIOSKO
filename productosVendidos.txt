@@ -1,0 +1,3 @@
+6,     Papas Fritas Lays, 55, 1
+7,     Palitos Pehuamar, 48, 1
+8,    nugaton, 53, 1

@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-clase-3.5.2-ej-1-stock-kiosko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Salerno",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.7.1",
+    "readline-sync": "^1.4.10"
+  }
+}
